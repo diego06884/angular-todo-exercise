@@ -1,0 +1,14 @@
+{
+  "name": "diego2d-angular-todo",
+  "version": "1.0.0",
+  "description": "To Do List Exercise using Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diego vergara",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.4"
+  }
+}
